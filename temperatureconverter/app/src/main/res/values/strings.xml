@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">temperatureconverter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">tempConverter</string>
+    <string name="enter">enter temperature</string>
+    <string name="celsius">c</string>
+    <string name="fahrenheit">f</string>
+    <string name="enter1">result</string>
+</resources>
